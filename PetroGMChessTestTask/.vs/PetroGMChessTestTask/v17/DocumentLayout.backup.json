@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\PetroGMChessTestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF209216-2FC0-4674-BF98-A6885116ED24}|PetroGMChessTestTask.csproj|d:\\programming\\c#\\petrogmchesstesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF209216-2FC0-4674-BF98-A6885116ED24}|PetroGMChessTestTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\shadowtrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\shadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\ipiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}|..\\ChessLogics\\ChessLogics.shproj|d:\\programming\\c#\\chesslogics\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF209216-2FC0-4674-BF98-A6885116ED24}|PetroGMChessTestTask.csproj|d:\\programming\\c#\\petrogmchesstesttask\\petrogmchesstesttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF209216-2FC0-4674-BF98-A6885116ED24}|PetroGMChessTestTask.csproj|solutionrelative:petrogmchesstesttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShadowTrail.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\ShadowTrail.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\ShadowTrail.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\ShadowTrail.cs",
+              "RelativeToolTip": "..\\ChessLogics\\ShadowTrail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:33:32.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shadow.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\Shadow.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\Shadow.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\Shadow.cs",
+              "RelativeToolTip": "..\\ChessLogics\\Shadow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:30.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\Rook.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\Rook.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\Rook.cs",
+              "RelativeToolTip": "..\\ChessLogics\\Rook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:29.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\Queen.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\Queen.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\Queen.cs",
+              "RelativeToolTip": "..\\ChessLogics\\Queen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:29.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\Piece.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\Piece.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\Piece.cs",
+              "RelativeToolTip": "..\\ChessLogics\\Piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\Knight.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\Knight.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\Knight.cs",
+              "RelativeToolTip": "..\\ChessLogics\\Knight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:25.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "King.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\King.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\King.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\King.cs",
+              "RelativeToolTip": "..\\ChessLogics\\King.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:24.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPiece.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\IPiece.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\IPiece.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\IPiece.cs",
+              "RelativeToolTip": "..\\ChessLogics\\IPiece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChessBoard.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\ChessBoard.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\ChessBoard.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\ChessBoard.cs",
+              "RelativeToolTip": "..\\ChessLogics\\ChessBoard.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:32:21.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\ChessLogics\\Bishop.cs",
+              "RelativeDocumentMoniker": "..\\ChessLogics\\Bishop.cs",
+              "ToolTip": "D:\\Programming\\C#\\ChessLogics\\Bishop.cs",
+              "RelativeToolTip": "..\\ChessLogics\\Bishop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:23:15.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PetroGMChessTestTask",
+              "DocumentMoniker": "D:\\Programming\\C#\\PetroGMChessTestTask\\PetroGMChessTestTask.csproj",
+              "RelativeDocumentMoniker": "PetroGMChessTestTask.csproj",
+              "ToolTip": "D:\\Programming\\C#\\PetroGMChessTestTask\\PetroGMChessTestTask.csproj",
+              "RelativeToolTip": "PetroGMChessTestTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T07:22:06.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\PetroGMChessTestTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\C#\\PetroGMChessTestTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:27:45.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

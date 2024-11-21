@@ -1,0 +1,14 @@
+D:\Programming\C#\PetroGMChessTestTask\bin\Debug\net8.0\PetroGMChessTestTask.exe
+D:\Programming\C#\PetroGMChessTestTask\bin\Debug\net8.0\PetroGMChessTestTask.deps.json
+D:\Programming\C#\PetroGMChessTestTask\bin\Debug\net8.0\PetroGMChessTestTask.runtimeconfig.json
+D:\Programming\C#\PetroGMChessTestTask\bin\Debug\net8.0\PetroGMChessTestTask.dll
+D:\Programming\C#\PetroGMChessTestTask\bin\Debug\net8.0\PetroGMChessTestTask.pdb
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.AssemblyInfoInputs.cache
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.AssemblyInfo.cs
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.csproj.CoreCompileInputs.cache
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.dll
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\refint\PetroGMChessTestTask.dll
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.pdb
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\PetroGMChessTestTask.genruntimeconfig.cache
+D:\Programming\C#\PetroGMChessTestTask\obj\Debug\net8.0\ref\PetroGMChessTestTask.dll

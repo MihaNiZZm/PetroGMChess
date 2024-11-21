@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetroGMChessTestTask", "PetroGMChessTestTask.csproj", "{BF209216-2FC0-4674-BF98-A6885116ED24}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ChessLogics", "..\ChessLogics\ChessLogics.shproj", "{C04A83BB-D97C-47A0-A12C-CF2D07370D6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF209216-2FC0-4674-BF98-A6885116ED24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF209216-2FC0-4674-BF98-A6885116ED24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF209216-2FC0-4674-BF98-A6885116ED24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF209216-2FC0-4674-BF98-A6885116ED24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3C1EB8-5FE6-4197-801D-DF672FA08064}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\ChessLogics\ChessLogics.projitems*{bf209216-2fc0-4674-bf98-a6885116ed24}*SharedItemsImports = 5
+		..\ChessLogics\ChessLogics.projitems*{c04a83bb-d97c-47a0-a12c-cf2d07370d6c}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
